@@ -14,7 +14,7 @@ This project's goal is to:
 
 ## Ideas for extra features
 
-1. **Pause button:** Pause would slow or completely stop any stim.  This would be a momentary button that the operator would press and hold to allow the beneficiary to catch their breath or grab their attention. This would NOT be an e-stop, though a secondary e-stop might be a good idea. This would probably be paired with a small trim pot, to allow the reduction of stem to be either fully-off or a reduced intensity.
+1. **Pause button:** Pause would slow or completely stop any stim.  This would be a momentary button that the operator would press and hold to allow the beneficiary to catch their breath or grab their attention. This would NOT be an e-stop, though a secondary e-stop might be a good idea. This would probably be paired with a small trim pot, to allow the reduction of stim to be either fully-off or a reduced intensity.
 2. **Boost button:** A button that would momentarily increase the intensity of all the stim or maybe just vibration.  This would be a momentary button, which might also be additionally limited in software so that the operator can't just mash it and hold it down for long periods.  This would also be paired with a small trim pot to dial in how intense the beneficiary the boost to be.  
     1. It would probably be smart of have some sort of cooldown/re-arm time for this, to allow the beneficiary to settle back in to the average/background stim. 
     2. Adding an "arming" feature.  This would be paired with the Remote Remote Control (below), so that someone not in the scene could arm the Boost and then the operator could trigger it. Another option would be for the Remote Remote Control to immediately trigger the boost. 
