@@ -1,16 +1,16 @@
 # Sybian/MotorBunny Upgrade Remote
 
 This project's goal is to:
-1. Document the control interface for the MotorBunny and Sybian
+1. Document the control interface for the [MotorBunny](https://motorbunny.com/products/motorbunny) and [Sybian](https://sybian.com/product/the-sybian/)
 2. Make an open-source remote control with extra features
 
 ## Definitions
 
-* Operator: Person operating the remote control of the unit. 
-* Beneficiary: The person that is riding the MotorBunny/Sybian.
-* Stim: General term for all the stimulation that could be happening due to the unit, which could include: vibe, insertable rotation, insertable thrusting, e-stim, etc.
-* Insertable: The toy that is inserted into the beneficiary. 
-* Trim Pot: Small [potentiometer](https://en.wikipedia.org/wiki/Potentiometer) that can be used to adjust a setting. Different from a user knob, which is also a potentiometer but is meant to be adjusted during operation. 
+* **Operator:** Person operating the remote control of the unit. 
+* **Beneficiary:** The person that is riding the MotorBunny/Sybian.
+* **Stim:** General term for all the stimulation that could be happening due to the unit, which could include: vibe, insertable rotation, insertable thrusting, e-stim, etc.
+* **Insertable:** The toy that is inserted into the beneficiary. 
+* **Trim Pot:** Small [potentiometer](https://en.wikipedia.org/wiki/Potentiometer) that can be used to adjust a setting. Different from a user knob, which is also a potentiometer but is meant to be adjusted during operation. 
 
 ## Ideas for extra features
 
